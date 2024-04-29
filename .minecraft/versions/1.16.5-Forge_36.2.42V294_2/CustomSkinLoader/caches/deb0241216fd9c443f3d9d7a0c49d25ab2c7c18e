@@ -1,0 +1,9 @@
+{
+  "id" : "84e2cd2e1f364226b5611508ebf08312",
+  "name" : "Kaenbyou_Rin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDM4NDQwOTkxNSwKICAicHJvZmlsZUlkIiA6ICI4NGUyY2QyZTFmMzY0MjI2YjU2MTE1MDhlYmYwODMxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWVuYnlvdV9SaW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU2YjljMjJhNWMyMjAyMmQwZGVlYTBmNWVmNjdjODlmZjAxYmE0N2U4ZGExYTM3NWZhNDNmMzk4OGMwOWI0OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

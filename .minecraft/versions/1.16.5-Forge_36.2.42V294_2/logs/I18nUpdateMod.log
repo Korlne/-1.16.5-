@@ -1,0 +1,9 @@
+[2024-04-29 17:50:23] [INFO]: I18nUpdate Mod 3.5.3 is loaded in 1.16.5 with Forge
+[2024-04-29 17:50:23] [DEBUG]: Minecraft path: E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2
+[2024-04-29 17:50:23] [DEBUG]: User home: C:\Users\59275
+[2024-04-29 17:50:23] [DEBUG]: Local file C:\Users\59275\.i18nupdatemod\1.16\Minecraft-Mod-Language-Modpack-1-16.zip has been updated recently.
+[2024-04-29 17:50:23] [DEBUG]: Already up to date.
+[2024-04-29 17:50:23] [INFO]: Converting: C:\Users\59275\.i18nupdatemod\1.16\Minecraft-Mod-Language-Modpack-1-16.zip
+[2024-04-29 17:50:29] [INFO]: Converted: [C:\Users\59275\.i18nupdatemod\1.16\Minecraft-Mod-Language-Modpack-1-16.zip] -> C:\Users\59275\.i18nupdatemod\1.16.5\Minecraft-Mod-Language-Modpack-Converted-1.16.5.zip
+[2024-04-29 17:50:29] [WARNING]: Failed to update resource pack: java.lang.Exception: Error converting [C:\Users\59275\.i18nupdatemod\1.16\Minecraft-Mod-Language-Modpack-1-16.zip] to C:\Users\59275\.i18nupdatemod\1.16.5\Minecraft-Mod-Language-Modpack-Converted-1.16.5.zip: java.nio.file.FileSystemException: E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.16.5.zip: 另一个程序正在使用此文件，进程无法访问。
+

@@ -1,0 +1,40 @@
+[18:02:30.820] [Start] 程序版本：Release 2.7.1（321）
+[18:02:30.822] [Start] 识别码：0349-AAF9-8ECB-3693
+[18:02:30.822] [Start] 程序路径：E:\MCPCL2\Plain Craft Launcher 2.exe
+[18:02:30.829] [Start] 第一阶段加载用时：63 ms
+[18:02:30.962] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[18:02:30.962] [Start] 第二阶段加载用时：125 ms
+[18:02:30.968] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[18:02:31.220] [System] 窗口已置顶，位置：(811, 379), 939 x 634
+[18:02:31.224] [Start] 第三阶段加载用时：47 ms
+[18:02:31.224] [Animation] 动画线程开始
+[18:02:31.226] [Start] 加载 DLL：Json
+[18:02:31.226] [System] 获取资源：Json
+[18:02:31.233] [Launch] Minecraft 文件夹：E:\MCPCL2\.minecraft\
+[18:02:31.290] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[18:02:31.293] [Java] 缓存中有 2 个可用的 Java：
+[18:02:31.294] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[18:02:31.294] [Java]  - JRE 8 (8.0.51)，64 位：C:\Users\59275\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[18:02:31.294] [Java]  - JDK 11 (11.16.1)，64 位：C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\
+[18:02:31.319] [Page] 实例化：清空自定义主页 UI，来源为空
+[18:02:31.324] [Skin] 载入头像成功：Loader Skin Legacy
+[18:02:31.326] [Minecraft] 启动按钮：Minecraft 版本：E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\
+[18:02:31.330] [Loader] 加载器 登录 状态改变：Loading
+[18:02:31.332] [Launch] 登录加载已开始
+[18:02:31.332] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[18:02:31.333] [Launch] 登录方式：离线（AdminK）
+[18:02:31.335] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[18:02:31.348] [Launch] 登录加载已结束
+[18:02:31.348] [Loader] 加载器 登录 状态改变：Finished
+[18:02:31.502] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[18:02:31.503] [Loader] 加载器 PCL 服务 状态改变：Loading
+[18:02:31.503] [Server] 正在连接到 PCL 服务器
+[18:02:31.508] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[18:02:31.511] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1714384952-20b620ef-0-d70622cc390a3532a6b7e1eb202f0c39，超时 10000ms
+[18:02:31.677] [Server] 服务器公告：136|320|321|5，无需更新
+[18:02:31.681] [Loader] 加载器 PCL 服务 状态改变：Finished
+[18:02:31.938] [System] DPI：96，系统版本：10.0.22631.0，PCL 位置：E:\MCPCL2\Plain Craft Launcher 2.exe
+[18:02:31.954] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[18:02:33.349] [Control] 按下图标按钮：BtnTitleClose
+[18:02:33.351] [System] 收到关闭指令
+[18:02:33.568] [System] 程序已退出，返回值：Success

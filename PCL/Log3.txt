@@ -1,0 +1,54 @@
+[17:46:40.268] [Start] 程序版本：Release 2.7.1（321）
+[17:46:40.269] [Start] 识别码：0349-AAF9-8ECB-3693
+[17:46:40.269] [Start] 程序路径：E:\MCPCL2\Plain Craft Launcher 2.exe
+[17:46:40.274] [Start] 第一阶段加载用时：140 ms
+[17:46:40.403] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[17:46:40.404] [Start] 第二阶段加载用时：125 ms
+[17:46:40.411] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[17:46:40.678] [System] 窗口已置顶，位置：(811, 379), 939 x 634
+[17:46:40.681] [Start] 第三阶段加载用时：47 ms
+[17:46:40.681] [Animation] 动画线程开始
+[17:46:40.683] [Start] 加载 DLL：Json
+[17:46:40.683] [System] 获取资源：Json
+[17:46:40.690] [Launch] Minecraft 文件夹：E:\MCPCL2\.minecraft\
+[17:46:40.692] [Launch] Minecraft 版本无效：E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42_1\
+[17:46:40.698] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[17:46:40.703] [Minecraft] 文件夹列表变更，重载所有版本
+[17:46:40.732] 版本 json 可用性检查失败（E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\）：未找到版本 json 文件：E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\1.16.5-Forge_36.2.42V294_2.json
+   在 PCL.ModMinecraft.McVersion.RateImporter()
+   在 PCL.ModMinecraft.McVersion.AddImporter()
+   在 PCL.ModMinecraft.McVersion.Check()
+[17:46:40.744] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[17:46:40.747] [Setup] 当前选择的 Minecraft 版本：
+[17:46:40.748] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[17:46:40.748] [Minecraft] 未找到可用 Minecraft 版本
+[17:46:40.748] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[17:46:40.756] [Launch] 无可用 Minecraft 版本
+[17:46:40.762] [Java] 缓存中有 2 个可用的 Java：
+[17:46:40.762] [Java]  - JRE 8 (8.0.51)，64 位：C:\Users\59275\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[17:46:40.763] [Java]  - JDK 11 (11.16.1)，64 位：C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\
+[17:46:40.795] [Page] 实例化：清空自定义主页 UI，来源为空
+[17:46:40.799] [Skin] 载入头像成功：Loader Skin Legacy
+[17:46:40.800] [Minecraft] 启动按钮：无 Minecraft 版本，要求下载
+[17:46:40.803] [Loader] 加载器 登录 状态改变：Loading
+[17:46:40.805] [Launch] 登录加载已开始
+[17:46:40.806] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[17:46:40.806] [Launch] 登录方式：离线（Korlne）
+[17:46:40.808] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[17:46:40.832] [Launch] 登录加载已结束
+[17:46:40.832] [Loader] 加载器 登录 状态改变：Finished
+[17:46:40.972] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[17:46:40.973] [Loader] 加载器 PCL 服务 状态改变：Loading
+[17:46:40.973] [Server] 正在连接到 PCL 服务器
+[17:46:40.977] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，超时 10000ms，要求 json
+[17:46:40.980] [Net] 获取网络结果：https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1714384001-0024f092-0-45c32be425c65dcd69d437b46d64db9f，超时 10000ms
+[17:46:41.131] [Server] 服务器公告：136|320|321|5，无需更新
+[17:46:41.138] [Loader] 加载器 PCL 服务 状态改变：Finished
+[17:46:41.393] [System] DPI：96，系统版本：10.0.22631.0，PCL 位置：E:\MCPCL2\Plain Craft Launcher 2.exe
+[17:46:41.433] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[17:46:42.209] [Control] 按下按钮：版本选择
+[17:46:42.253] [Control] 切换主要页面：VersionSelect, 0
+[17:46:42.368] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > E:\MCPCL2\.minecraft\
+[17:46:44.561] [Control] 按下图标按钮：BtnTitleClose
+[17:46:44.563] [System] 收到关闭指令
+[17:46:44.784] [System] 程序已退出，返回值：Success

@@ -1,0 +1,211 @@
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: CustomSkinLoader 14.19.1
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: DataDir: E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Operating System: Windows 10 (amd64) version 10.0
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Java Version: 1.8.0_51, Oracle Corporation
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Minecraft: 1.16.5
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Config File: E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\CustomSkinLoader.json
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Try to load config.
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Successfully load config.
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MojangAPI
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: Legacy
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSkinAPI
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: CustomSKinAPIPlus
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: UniSkinAPI
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: ElyByAPI
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: GlitchlessAPI
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: MinecraftCapesAPI
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Add a profile loader: WynntilsAPI
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: Successfully update config.
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: version : 14.19.1
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: buildNumber : 26
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: loadlist : [{ "name": "Mojang", "type": "MojangAPI", "apiRoot": "https://api.mojang.com/", "sessionRoot": "https://sessionserver.mojang.com/" }, { "name": "LittleSkin", "type": "CustomSkinAPI", "root": "https://littleskin.cn/csl/" }, { "name": "BlessingSkin", "type": "CustomSkinAPI", "root": "https://skin.prinzeugen.net/" }, { "name": "ElyBy", "type": "ElyByAPI", "root": "http://skinsystem.ely.by/textures/" }, { "name": "SkinMe", "type": "UniSkinAPI", "root": "http://www.skinme.cc/uniskin/" }, { "name": "TLauncher", "type": "ElyByAPI", "root": "https://auth.tlauncher.org/skin/profile/texture/login/" }, { "name": "GlitchlessGames", "type": "GlitchlessAPI", "root": "https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=" }, { "name": "LocalSkin", "type": "Legacy", "checkPNG": "false", "skin": "LocalSkin/skins/{USERNAME}.png", "model": "auto", "cape": "LocalSkin/capes/{USERNAME}.png", "elytra": "LocalSkin/elytras/{USERNAME}.png" }, { "name": "MinecraftCapes", "type": "MinecraftCapesAPI", "root": "https://api.minecraftcapes.net/profile/" }, { "name": "OptiFine", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://optifine.net/capes/{USERNAME}.png" }, { "name": "Wynntils", "type": "WynntilsAPI", "root": "https://athena.wynntils.com/user/getInfo" }, { "name": "CloakPlus", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "http://161.35.130.99/capes/{USERNAME}.png" }, { "name": "LabyMod", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}" }, { "name": "Cosmetica", "type": "Legacy", "checkPNG": "false", "model": "auto", "cape": "https://api.cosmetica.cc/get/cloak?username={USERNAME}&uuid={STANDARD_UUID}&nothirdparty" }]
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: enableDynamicSkull : true
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: enableTransparentSkin : true
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: forceLoadAllTextures : true
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: enableCape : true
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: threadPoolSize : 8
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: enableLogStdOut : false
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: cacheExpiry : 30
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: forceUpdateSkull : false
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: enableLocalProfileCache : false
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: enableCacheAutoClean : false
+[2024-04-29 17:49:37] [Render thread/INFO] [CustomSkinLoader Core]: forceDisableCache : false
+[2024-04-29 17:49:37] [Korlne/INFO] [CustomSkinLoader Core]: Loading Korlne's profile.
+[2024-04-29 17:49:37] [Korlne/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-04-29 17:49:37] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:49:37] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:49:38] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:49:38] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:49:38] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.(Korlne's profile not found.)
+[2024-04-29 17:49:38] [Korlne/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2024-04-29 17:49:38] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Korlne.json'.
+[2024-04-29 17:49:38] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2024-04-29 17:49:38] [Korlne/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 120 , Path: 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\c8f890d6f3e82e7353b6596c9b0eb3ebdee2df47' , Expire: 0)
+[2024-04-29 17:49:38] [Korlne/INFO] [CustomSkinLoader Core]: Try to load from cache 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\c8f890d6f3e82e7353b6596c9b0eb3ebdee2df47'.
+[2024-04-29 17:49:38] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2024-04-29 17:49:38] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: {"username":"Korlne","skins":{"default":"c2cc86b6f9cc86183731ca232795f17d9457e6a2fa4add016aa0da52b0b39512"},"cape":null}
+[2024-04-29 17:49:38] [Korlne/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
+[2024-04-29 17:49:38] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/Korlne.json'.
+[2024-04-29 17:49:39] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-04-29 17:49:39] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:49:39] [Korlne/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
+[2024-04-29 17:49:39] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/Korlne'.
+[2024-04-29 17:49:39] [Korlne/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\da8fa4b1dde47cb6b9e5007b2ce73b70e8cc0e87' , Expire: 1714386597)
+[2024-04-29 17:49:39] [Korlne/INFO] [CustomSkinLoader Core]: Try to load from cache 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\da8fa4b1dde47cb6b9e5007b2ce73b70e8cc0e87'.
+[2024-04-29 17:49:39] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2024-04-29 17:49:39] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: 
+[2024-04-29 17:49:39] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:49:39] [Korlne/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
+[2024-04-29 17:49:39] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/Korlne.json'.
+[2024-04-29 17:49:39] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/Korlne.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2024-04-29 17:49:39] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:49:39] [Korlne/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
+[2024-04-29 17:49:39] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Korlne'.
+[2024-04-29 17:49:40] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2024-04-29 17:49:40] [Korlne/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\4d66add89908958f9aac29693a3a09ea5726dee7' , Expire: 1714384271)
+[2024-04-29 17:49:40] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2024-04-29 17:49:40] [Korlne/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2024-04-29 17:49:40] [Korlne/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
+[2024-04-29 17:49:40] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Korlne'.
+[2024-04-29 17:49:41] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-04-29 17:49:41] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:49:41] [Korlne/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
+[2024-04-29 17:49:41] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:49:41] [Korlne/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
+[2024-04-29 17:49:41] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:49:41] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:49:41] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:49:41] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:49:41] [Korlne/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2024-04-29 17:49:41] [Korlne/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
+[2024-04-29 17:49:41] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/Korlne.png'.
+[2024-04-29 17:49:42] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
+[2024-04-29 17:49:42] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:49:42] [Korlne/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
+[2024-04-29 17:49:42] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:49:42] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:49:42] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:49:42] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:49:42] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:49:42] [Korlne/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
+[2024-04-29 17:49:42] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/Korlne.png'.
+[2024-04-29 17:49:43] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-04-29 17:49:43] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:49:43] [Korlne/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
+[2024-04-29 17:49:43] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:49:43] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:49:44] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:49:44] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:49:44] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:49:44] [Korlne/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2024-04-29 17:49:44] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:49:44] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:49:44] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:49:44] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:49:44] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:49:44] [Korlne/INFO] [CustomSkinLoader Core]: Korlne's profile loaded.
+[2024-04-29 17:49:44] [Korlne/INFO] [CustomSkinLoader Core]: (SkinUrl: https://littleskin.cn/csl/textures/c2cc86b6f9cc86183731ca232795f17d9457e6a2fa4add016aa0da52b0b39512 , Model: default , CapeUrl: null  , Expiry: 1714384214)
+[2024-04-29 17:51:13] [Korlne/INFO] [CustomSkinLoader Core]: Loading Korlne's profile.
+[2024-04-29 17:51:13] [Korlne/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:51:13] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:51:13] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.(Korlne's profile not found.)
+[2024-04-29 17:51:13] [Korlne/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Korlne.json'.
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 304 , Content Length: -1)
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 120 , Path: 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\c8f890d6f3e82e7353b6596c9b0eb3ebdee2df47' , Expire: 0)
+[2024-04-29 17:51:13] [Korlne/INFO] [CustomSkinLoader Core]: Try to load from cache 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\c8f890d6f3e82e7353b6596c9b0eb3ebdee2df47'.
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: {"username":"Korlne","skins":{"default":"c2cc86b6f9cc86183731ca232795f17d9457e6a2fa4add016aa0da52b0b39512"},"cape":null}
+[2024-04-29 17:51:13] [Korlne/INFO] [CustomSkinLoader Core]: 3/14 Try to load profile from 'BlessingSkin'.
+[2024-04-29 17:51:13] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://skin.prinzeugen.net/Korlne.json'.
+[2024-04-29 17:51:14] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-04-29 17:51:14] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:51:14] [Korlne/INFO] [CustomSkinLoader Core]: 4/14 Try to load profile from 'ElyBy'.
+[2024-04-29 17:51:14] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'http://skinsystem.ely.by/textures/Korlne'.
+[2024-04-29 17:51:14] [Korlne/DEBUG] [CustomSkinLoader Core]: Cache file found (Length: 0 , Path: 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\da8fa4b1dde47cb6b9e5007b2ce73b70e8cc0e87' , Expire: 1714386597)
+[2024-04-29 17:51:14] [Korlne/INFO] [CustomSkinLoader Core]: Try to load from cache 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\da8fa4b1dde47cb6b9e5007b2ce73b70e8cc0e87'.
+[2024-04-29 17:51:14] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully load from cache
+[2024-04-29 17:51:14] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: 
+[2024-04-29 17:51:14] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:51:14] [Korlne/INFO] [CustomSkinLoader Core]: 5/14 Try to load profile from 'SkinMe'.
+[2024-04-29 17:51:14] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'http://www.skinme.cc/uniskin/Korlne.json'.
+[2024-04-29 17:51:14] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request http://www.skinme.cc/uniskin/Korlne.json (Exception: java.net.UnknownHostException: www.skinme.cc)
+[2024-04-29 17:51:14] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:51:14] [Korlne/INFO] [CustomSkinLoader Core]: 6/14 Try to load profile from 'TLauncher'.
+[2024-04-29 17:51:14] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://auth.tlauncher.org/skin/profile/texture/login/Korlne'.
+[2024-04-29 17:51:15] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2024-04-29 17:51:15] [Korlne/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 2 , Path: 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\4d66add89908958f9aac29693a3a09ea5726dee7' , Expire: 1714384370)
+[2024-04-29 17:51:15] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: {}
+[2024-04-29 17:51:15] [Korlne/INFO] [CustomSkinLoader Core]: Both skin and cape not found.
+[2024-04-29 17:51:15] [Korlne/INFO] [CustomSkinLoader Core]: 7/14 Try to load profile from 'GlitchlessGames'.
+[2024-04-29 17:51:15] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://games.glitchless.ru/api/minecraft/users/profiles/textures/?nickname=Korlne'.
+[2024-04-29 17:51:16] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-04-29 17:51:16] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:51:16] [Korlne/INFO] [CustomSkinLoader Core]: 8/14 Try to load profile from 'LocalSkin'.
+[2024-04-29 17:51:16] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:51:16] [Korlne/INFO] [CustomSkinLoader Core]: 9/14 Try to load profile from 'MinecraftCapes'.
+[2024-04-29 17:51:16] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:51:16] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:51:16] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:51:16] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:51:16] [Korlne/INFO] [CustomSkinLoader Core]: Profile url not found.
+[2024-04-29 17:51:16] [Korlne/INFO] [CustomSkinLoader Core]: 10/14 Try to load profile from 'OptiFine'.
+[2024-04-29 17:51:16] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://optifine.net/capes/Korlne.png'.
+[2024-04-29 17:51:17] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 403)
+[2024-04-29 17:51:17] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:51:17] [Korlne/INFO] [CustomSkinLoader Core]: 11/14 Try to load profile from 'Wynntils'.
+[2024-04-29 17:51:17] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:51:17] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:51:18] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:51:18] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:51:18] [Korlne/INFO] [CustomSkinLoader Core]: Profile not found.
+[2024-04-29 17:51:18] [Korlne/INFO] [CustomSkinLoader Core]: 12/14 Try to load profile from 'CloakPlus'.
+[2024-04-29 17:51:18] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'http://161.35.130.99/capes/Korlne.png'.
+[2024-04-29 17:51:18] [Korlne/DEBUG] [CustomSkinLoader Core]: Failed to request (Response Code: 404)
+[2024-04-29 17:51:18] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:51:18] [Korlne/INFO] [CustomSkinLoader Core]: 13/14 Try to load profile from 'LabyMod'.
+[2024-04-29 17:51:18] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:51:18] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:51:19] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:51:19] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:51:19] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:51:19] [Korlne/INFO] [CustomSkinLoader Core]: 14/14 Try to load profile from 'Cosmetica'.
+[2024-04-29 17:51:19] [Korlne/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:51:19] [Korlne/INFO] [CustomSkinLoader Core]: Payload: ["Korlne"]
+[2024-04-29 17:51:19] [Korlne/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 3)
+[2024-04-29 17:51:19] [Korlne/DEBUG] [CustomSkinLoader Core]: Content: [ ]
+[2024-04-29 17:51:19] [Korlne/INFO] [CustomSkinLoader Core]: No texture could be found.
+[2024-04-29 17:51:19] [Korlne/INFO] [CustomSkinLoader Core]: Korlne's profile loaded.
+[2024-04-29 17:51:19] [Korlne/INFO] [CustomSkinLoader Core]: (SkinUrl: https://littleskin.cn/csl/textures/c2cc86b6f9cc86183731ca232795f17d9457e6a2fa4add016aa0da52b0b39512 , Model: default , CapeUrl: null  , Expiry: 1714384309)
+[2024-04-29 17:53:29] [Kaenbyou_Rin/INFO] [CustomSkinLoader Core]: Loading Kaenbyou_Rin's profile.
+[2024-04-29 17:53:29] [Kaenbyou_Rin/INFO] [CustomSkinLoader Core]: 1/14 Try to load profile from 'Mojang'.
+[2024-04-29 17:53:29] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://api.mojang.com/profiles/minecraft'.
+[2024-04-29 17:53:29] [Kaenbyou_Rin/INFO] [CustomSkinLoader Core]: Payload: ["Kaenbyou_Rin"]
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 78)
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Content: [ {
+  "id" : "84e2cd2e1f364226b5611508ebf08312",
+  "name" : "Kaenbyou_Rin"
+} ]
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://sessionserver.mojang.com/session/minecraft/profile/84e2cd2e1f364226b5611508ebf08312'.
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: 618)
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 618 , Path: 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\deb0241216fd9c443f3d9d7a0c49d25ab2c7c18e' , Expire: 1714384440)
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Content: {
+  "id" : "84e2cd2e1f364226b5611508ebf08312",
+  "name" : "Kaenbyou_Rin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTcxNDM4NDQwOTkxNSwKICAicHJvZmlsZUlkIiA6ICI4NGUyY2QyZTFmMzY0MjI2YjU2MTE1MDhlYmYwODMxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYWVuYnlvdV9SaW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODU2YjljMjJhNWMyMjAyMmQwZGVlYTBmNWVmNjdjODlmZjAxYmE0N2U4ZGExYTM3NWZhNDNmMzk4OGMwOWI0OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}
+[2024-04-29 17:53:30] [Kaenbyou_Rin/INFO] [CustomSkinLoader Core]: 2/14 Try to load profile from 'LittleSkin'.
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Try to request 'https://littleskin.cn/csl/Kaenbyou_Rin.json'.
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Successfully request (Response Code: 200 , Content Length: -1)
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Saved to cache (Length: 185 , Path: 'E:\MCPCL2\.minecraft\versions\1.16.5-Forge_36.2.42V294_2\CustomSkinLoader\caches\51da187d8f170ac10a67e1e78bd6d663e86d9182' , Expire: 1714384504)
+[2024-04-29 17:53:30] [Kaenbyou_Rin/DEBUG] [CustomSkinLoader Core]: Content: {"username":"Kaenbyou_Rin","skins":{"slim":"280a068571367e7bb0e1d92ebb9de148c709188d496c470a13558e26f90df234"},"cape":"e4a486240df62fe1578a96fbef62a138c38d3c30546d150063bbe619a1e6f8c5"}
+[2024-04-29 17:53:30] [Kaenbyou_Rin/INFO] [CustomSkinLoader Core]: Kaenbyou_Rin's profile loaded.
+[2024-04-29 17:53:30] [Kaenbyou_Rin/INFO] [CustomSkinLoader Core]: (SkinUrl: http://textures.minecraft.net/texture/856b9c22a5c22022d0deea0f5ef67c89ff01ba47e8da1a375fa43f3988c09b48 , Model: slim , CapeUrl: https://littleskin.cn/csl/textures/e4a486240df62fe1578a96fbef62a138c38d3c30546d150063bbe619a1e6f8c5  , Expiry: 1714384440)
